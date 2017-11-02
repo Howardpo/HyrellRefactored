@@ -1,0 +1,9 @@
+C:\Source\HYRELL\Katas\Refactoring\CS\Algorithm\Algorithm\bin\Debug\Algorithm.dll
+C:\Source\HYRELL\Katas\Refactoring\CS\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Source\HYRELL\Katas\Refactoring\CS\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+C:\Source\HYRELL\Katas\Refactoring\CS\Algorithm\Algorithm\obj\Debug\Algorithm.dll
+C:\Source\HYRELL\Katas\Refactoring\CS\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\Source\HYRELL\Katas\Refactoring\CS\Algorithm\Algorithm\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Source\HYRELL\Katas\Refactoring\CS\Algorithm\Algorithm\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Source\HYRELL\Katas\Refactoring\CS\Algorithm\Algorithm\bin\Debug\xunit.runner.utility.net452.dll
+C:\Source\HYRELL\Katas\Refactoring\CS\Algorithm\Algorithm\bin\Debug\xunit.abstractions.dll
